@@ -1,0 +1,12 @@
+C:\Users\faydn\OneDrive\Masaüstü\Wissen\Bacend\Lecture 220216 - Multiple Forms\Multiple Forms\Catalog.Entities\bin\Debug\net5.0\Catalog.Entities.deps.json
+C:\Users\faydn\OneDrive\Masaüstü\Wissen\Bacend\Lecture 220216 - Multiple Forms\Multiple Forms\Catalog.Entities\bin\Debug\net5.0\Catalog.Entities.dll
+C:\Users\faydn\OneDrive\Masaüstü\Wissen\Bacend\Lecture 220216 - Multiple Forms\Multiple Forms\Catalog.Entities\bin\Debug\net5.0\ref\Catalog.Entities.dll
+C:\Users\faydn\OneDrive\Masaüstü\Wissen\Bacend\Lecture 220216 - Multiple Forms\Multiple Forms\Catalog.Entities\bin\Debug\net5.0\Catalog.Entities.pdb
+C:\Users\faydn\OneDrive\Masaüstü\Wissen\Bacend\Lecture 220216 - Multiple Forms\Multiple Forms\Catalog.Entities\obj\Debug\net5.0\Catalog.Entities.csproj.AssemblyReference.cache
+C:\Users\faydn\OneDrive\Masaüstü\Wissen\Bacend\Lecture 220216 - Multiple Forms\Multiple Forms\Catalog.Entities\obj\Debug\net5.0\Catalog.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faydn\OneDrive\Masaüstü\Wissen\Bacend\Lecture 220216 - Multiple Forms\Multiple Forms\Catalog.Entities\obj\Debug\net5.0\Catalog.Entities.AssemblyInfoInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Wissen\Bacend\Lecture 220216 - Multiple Forms\Multiple Forms\Catalog.Entities\obj\Debug\net5.0\Catalog.Entities.AssemblyInfo.cs
+C:\Users\faydn\OneDrive\Masaüstü\Wissen\Bacend\Lecture 220216 - Multiple Forms\Multiple Forms\Catalog.Entities\obj\Debug\net5.0\Catalog.Entities.csproj.CoreCompileInputs.cache
+C:\Users\faydn\OneDrive\Masaüstü\Wissen\Bacend\Lecture 220216 - Multiple Forms\Multiple Forms\Catalog.Entities\obj\Debug\net5.0\Catalog.Entities.dll
+C:\Users\faydn\OneDrive\Masaüstü\Wissen\Bacend\Lecture 220216 - Multiple Forms\Multiple Forms\Catalog.Entities\obj\Debug\net5.0\ref\Catalog.Entities.dll
+C:\Users\faydn\OneDrive\Masaüstü\Wissen\Bacend\Lecture 220216 - Multiple Forms\Multiple Forms\Catalog.Entities\obj\Debug\net5.0\Catalog.Entities.pdb
